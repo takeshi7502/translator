@@ -1778,6 +1778,7 @@
         "npc": "NPC",
         "page": "Page",
         "script": "Script",
-        "|Fixed": "|DMG"
+        "|Fixed": "|DMG",
+        "xxxxx": "xxxxx"
     }
 }
